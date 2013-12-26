@@ -2,4 +2,4 @@ dotfiles
 ========
 
 My dotfiles
-linux dotfiles + sshsheshelshell ccoconconfconficonfigconfigs aanand 
+linux dotfiles + shell Configs
