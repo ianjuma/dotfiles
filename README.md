@@ -5,7 +5,9 @@ My dotfiles
 linux dotfiles + shell Configs
 
 ### Docker
-Docker configs
+- Docker configs
+- xen configs - helper notes
+- openVZ, lxc - notes
 
 ### CoreOS
 coreos configs
