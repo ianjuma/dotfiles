@@ -117,4 +117,4 @@ source ~/.zsh/zsh_hooks.zsh
 source ~/.zsh/hitch.zsh
 
 # Ian Juma CD to flask-apps
-cd ~/Desktop/android_python_django/flask_apps
+# cd ~/Desktop/android_python_django/flask_apps
