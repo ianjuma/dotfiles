@@ -10,6 +10,11 @@ linux dotfiles + shell Configs
 - openVZ, lxc - notes
 
 ### CoreOS
-coreos configs
-ssh coreos config
-scripts to load environment
+- coreos configs
+- ssh coreos config
+- scripts to load environment
+
+### Xen configs, LXC - openVZ
+
+- xen settings
+- LXC notes
