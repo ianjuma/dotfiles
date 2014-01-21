@@ -18,3 +18,9 @@ linux dotfiles + shell Configs
 
 - xen settings
 - LXC notes
+- ssh secure notes
+- guidelines
+
+### Vim + bundles
+- vim plugins + bundles
+- vimrc
